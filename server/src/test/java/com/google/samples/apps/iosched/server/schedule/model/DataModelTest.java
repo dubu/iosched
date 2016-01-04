@@ -38,17 +38,17 @@ public class DataModelTest {
     sources.addSource(
         new JsonDataSource(VendorAPISource.MainTypes.rooms,
         TestHelper.readJsonTestDataFile("sample_rooms.json").getAsJsonArray()));
-    sources.addSource(
-        new JsonDataSource(VendorAPISource.MainTypes.categories,
-        TestHelper.readJsonTestDataFile("sample_categories.json").getAsJsonArray()));
-    JsonElement el = TestHelper.readJsonTestDataFile("sample_speakers.json");
-    sources.addSource(
-        new JsonDataSource(VendorAPISource.MainTypes.speakers,
-            el.getAsJsonObject().get("results").getAsJsonArray()));
-    el = TestHelper.readJsonTestDataFile("sample_topics.json");
-    sources.addSource(
-        new JsonDataSource(VendorAPISource.MainTypes.topics,
-            el.getAsJsonObject().get("results").getAsJsonArray()));
+//    sources.addSource(
+//        new JsonDataSource(VendorAPISource.MainTypes.categories,
+//        TestHelper.readJsonTestDataFile("sample_categories.json").getAsJsonArray()));
+//    JsonElement el = TestHelper.readJsonTestDataFile("sample_speakers.json");
+//    sources.addSource(
+//        new JsonDataSource(VendorAPISource.MainTypes.speakers,
+//            el.getAsJsonObject().get("results").getAsJsonArray()));
+//    el = TestHelper.readJsonTestDataFile("sample_topics.json");
+//    sources.addSource(
+//        new JsonDataSource(VendorAPISource.MainTypes.topics,
+//            el.getAsJsonObject().get("results").getAsJsonArray()));
   }
 
   /**

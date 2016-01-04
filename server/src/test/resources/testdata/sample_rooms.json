@@ -1,0 +1,42 @@
+[
+  {
+    "id": "a4f51a8f-ace3-e411-b87f-00155d5066d7",
+    "name": "Develop Talk 1 (L2)",
+    "original_id": "a4f51a8f-ace3-e411-b87f-00155d5066d7"
+  },
+  {
+    "id": "keynote",
+    "name": "Room Keynote Room (L3)",
+    "original_id": "e9f3b25f-d4e2-e411-b87f-00155d5066d7"
+  },
+  {
+    "id": "room3",
+    "name": "Room 3 (L2)",
+    "original_id": "82588250-d4e2-e411-b87f-00155d5066d7"
+  },
+  {
+    "id": "a2f51a8f-ace3-e411-b87f-00155d5066d7",
+    "name": "Develop Talk 2 (L2)",
+    "original_id": "a2f51a8f-ace3-e411-b87f-00155d5066d7"
+  },
+  {
+    "id": "sandbox",
+    "name": "Lounge Talk (L2)",
+    "original_id": "6822c256-d4e2-e411-b87f-00155d5066d7"
+  },
+  {
+    "id": "a6f51a8f-ace3-e411-b87f-00155d5066d7",
+    "name": "Showcase Talk (L3)",
+    "original_id": "a6f51a8f-ace3-e411-b87f-00155d5066d7"
+  },
+  {
+    "id": "5654bc28-98e7-e411-b87f-00155d5066d7",
+    "name": "TBD",
+    "original_id": "5654bc28-98e7-e411-b87f-00155d5066d7"
+  },
+  {
+    "id": "9ef51a8f-ace3-e411-b87f-00155d5066d7",
+    "name": "Earn & Engage Talk (L2)",
+    "original_id": "9ef51a8f-ace3-e411-b87f-00155d5066d7"
+  }
+]
