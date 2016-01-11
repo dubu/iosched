@@ -66,12 +66,12 @@ To build the app:
 1. Choose Build > Make Project in Android Studio or run the following
     command in the project root directory:
    ```
-    ./gradlew clean assembleDebug
+    ./gradlew.bat clean assembleDebug
    ```
 1. To install on your test device:
 
    ```
-    ./gradlew installDebug
+    ./gradlew.bat installDebug
    ```
 
 
